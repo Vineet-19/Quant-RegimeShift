@@ -138,7 +138,6 @@ No single period drives all the outperformance — the edge is broadly distribut
 <td><img src="assets/heatmap_equal.png" width="320"/></td></tr>
 </table>
 
-> **Note on images above:** save the corresponding chart PNGs into an `assets/` folder in the repo root with the filenames referenced above (`portfolio_value_comparison.png`, `detected_regimes.png`, `spy_with_regimes.png`, `portfolio_allocation.png`, `drawdown_comparison.png`, `rolling_sharpe.png`, `rolling_volatility.png`, `heatmap_dynamic.png`, `heatmap_6040.png`, `heatmap_equal.png`) — GitHub will then render them inline automatically.
 
 ---
 
